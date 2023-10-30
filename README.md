@@ -16,14 +16,14 @@ I'm studying a lot of things now but here is the essential.
 
 I am learning 📚
 
-✅ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="16px" height="16px"/> HTML
+✅  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="16px" height="16px"/> HTML
 
-✅ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="16px" height="16px"/> CSS
+✅  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="16px" height="16px"/> CSS
 
-⏳ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="16px" height="16px"/> Tailwind
+⏳  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="16px" height="16px"/> Tailwind
 
-⏳ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16px" height="16px"/> Javascript
+⏳  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16px" height="16px"/> Javascript
 
-⏳ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16px" height="16px"/> React
+⏳  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16px" height="16px"/> React
 
-⏳ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="16px" height="16px"/> Git
+⏳  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="16px" height="16px"/> Git
